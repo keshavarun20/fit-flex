@@ -49,4 +49,11 @@ This project utilizes modern web technologies to provide a responsive, fast, and
   http://localhost:5173/
 ```
 **6.Enjoy! 🎉**
+
+## Screenshots
+
+![App Screenshot](https://github.com/keshavarun20/fit-flex/blob/main/screenshots/Screenshot%202024-09-10%20131224.png?raw=true)
+![App Screenshot](https://github.com/keshavarun20/fit-flex/blob/main/screenshots/Screenshot%202024-09-10%20131316.png?raw=true)
+![App Screenshot](https://github.com/keshavarun20/fit-flex/blob/main/screenshots/Screenshot%202024-09-10%20131331.png?raw=true)
+![App Screenshot](https://github.com/keshavarun20/fit-flex/blob/main/screenshots/Screenshot%202024-09-10%20131348.png?raw=true)
     

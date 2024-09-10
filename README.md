@@ -26,8 +26,22 @@ This project utilizes modern web technologies to provide a responsive, fast, and
 - **Workout Routines** 🏋️‍♀️: Custom routines generated based on your preferences.
 - **Muscle Group Selection** 💪: Choose specific muscle groups for targeted exercises.
 - **Real-Time Updates** 🔄: Interactive changes as you select different workout challenges.
-## Installation
 
+## 🔗 Live Demo
+
+You can check out the live version of the **Fit Flex Gym** app here:  
+[Live Demo](https://react-fit-flex.netlify.app/)
+
+## 💻 Setup and Installation
+
+To get **Fit Flex Gym** up and running on your local machine, follow these steps:
+
+### Prerequisites
+
+- Make sure you have **Node.js** and **npm** installed.  
+  You can download them from [here](https://nodejs.org/).
+
+### Steps
 **1.Clone the repository**:  
    ```bash
    git clone https://github.com/your-username/fit-flex.git

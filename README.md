@@ -8,7 +8,7 @@ Welcome to **Fit Flex Gym**, your personalized fitness companion app! 🌟 **Fit
 
  Special thanks to [jamezmca](https://github.com/jamezmca) for providing guidance and inspiration during the development of this app. This project is a clone of the [Swolenormous](https://www.swolenormous.smoljames.com/), built with love and passion for fitness.
 
-I would like to express my gratitude to the open-source community for its valuable tools and resources, which greatly facilitated the development of this app.
+I want to express my gratitude to the open-source community for its valuable tools and resources, which greatly facilitated the development of this app.
 
 
 ## 🛠️ Technologies Used
@@ -44,7 +44,7 @@ To get **Fit Flex Gym** up and running on your local machine, follow these steps
 ### Steps
 **1.Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/fit-flex.git
+   git clone https://github.com/keshavarun20/fit-flex.git
 ```
 **2.Navigate to the project directory**:  
 ```bash
